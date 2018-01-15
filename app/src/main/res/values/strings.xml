@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NewTest</string>
+    <string name="hello">Начало положено!</string>
+    <string name="hello_ilnar">Ильнар!</string>
 </resources>
